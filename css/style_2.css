@@ -1,0 +1,35 @@
+.first{
+	font-size: 20px;
+	font-weight:900;
+}
+.second{
+	font-weight:900;
+	margin-right: 10px;
+
+}
+.third{
+	margin-right: 30px;
+}
+.second,.third{
+	float: left;
+}
+li{
+	margin-top: 20px;
+}
+ul{
+	width: 600px;
+	float: left;
+	margin-left: 20px;
+}
+#wrap{
+	overflow: auto;
+}
+h1{
+	text-align: center;
+	line-height: 100px;
+	float: left;
+	width: 200px;
+	height: 550px;
+	background: #1E90FF;
+	color: #fff;
+}

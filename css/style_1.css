@@ -1,0 +1,18 @@
+.first{
+	font-size: 20px;
+	font-weight:900;
+}
+.second{
+	font-weight:900;
+	margin-right: 10px;
+
+}
+.third{
+	margin-right: 30px;
+}
+.second,.third{
+	float: left;
+}
+li{
+	margin-top: 20px;
+}
